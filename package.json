@@ -1,0 +1,28 @@
+{
+  "name": "food-sourcing",
+  "version": "1.0.0",
+  "description": "Blockchain based application to get the origin and information of the food",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhdao911/food-sourcing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhdao911/food-sourcing/issues"
+  },
+  "homepage": "https://github.com/minhdao911/food-sourcing#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.5",
+    "crypto-js": "^3.1.9-1"
+  }
+}

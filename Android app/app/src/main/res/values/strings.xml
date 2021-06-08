@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Food Resource</string>
+    <string name="history_of_item_is_here">History of item is here!!!</string>
+
+    <string-array name="options_array">
+        <item>5025 Northwest Loop 410, San Antonio, TX, 78229</item>
+        <item>3600 W McFadden Ave, Santa Ana, CA, 92704</item>
+    </string-array>
+
+</resources>
